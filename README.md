@@ -46,4 +46,8 @@ It was heavily inspired by [djherbis/atime](https://github.com/djherbis/atime).
 
 ## License
 
-MIT
+[MIT](https://raw.githubusercontent.com/b4b4r07/dotfiles/master/doc/LICENSE-MIT.txt)
+
+## Author
+
+[BABAROT](http://tellme.tokyo) a.k.a. b4b4r07
